@@ -23,8 +23,7 @@ CSS3
 
 📥 Installation & Usage
 Clone this repo:
-git clone https://github.com/imsurykant18/Amazon-clone.git
-
+git clone https://github.com/imsurykant18/Amazone-clone
 
 Open index.html in your browser.
 🌐 Live Demo
